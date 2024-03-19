@@ -1,0 +1,23 @@
+Total number of users: 3.
+
+    User: admin
+    Total tasks: 2
+    Percentage of total tasks: 50
+    Percentage complete tasks: 0
+    Percentage incomplete tasks: 100
+    Percentage overdue tasks: 100
+                    
+    User: me
+    Total tasks: 2
+    Percentage of total tasks: 50
+    Percentage complete tasks: 100
+    Percentage incomplete tasks: 0
+    Percentage overdue tasks: 100
+                    
+    User: Kim
+    Total tasks: 0
+    Percentage of total tasks: 0
+    Percentage complete tasks: 0
+    Percentage incomplete tasks: 0
+    Percentage overdue tasks: 0
+                    
